@@ -1,0 +1,593 @@
+header{
+    width: 100%;
+    height: 214px;
+   
+}
+.fixed{
+    width: 100%;
+    height: 144px;
+    transition: .3s;
+}
+body{
+    margin: 0;;
+}
+.header1{
+    width: 100%;
+    height: 54px;
+    align-content: center;
+    margin-bottom: -5px;
+}
+.header2{
+    width: 100%;
+    height: 92px;
+    
+    margin-top: -5px;
+}
+.kfc_logo_header{
+    margin-left: 122px;
+  margin-top: 37px;
+}
+.bucket{
+    width: 41px;
+}
+.menu{
+    cursor: pointer;
+  color: black;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "National 2 Condensed";
+  text-decoration: none;
+  margin-left: 51px;
+}
+.deals{
+    cursor: pointer;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "National 2 Condensed";
+    text-decoration: none;
+    margin-left: 31px;
+}
+.sign_in{
+    cursor: pointer;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "National 2 Condensed";
+    text-decoration: none;
+    margin-left: 684px;
+}
+.bucket_img{
+    cursor: pointer;
+    color: black;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: "National 2 Condensed";
+    text-decoration: none;
+    margin-left: 51px;
+}
+line{
+    color: #f7f9fb;
+    display: inline-table;
+    
+}
+.header3{
+    background-color: black;
+    width: 100%;
+    height: 68px;
+}
+.main_img{
+    width: 100%;
+    height: 376px;
+    
+}
+.location_img{
+    height: 18px;
+  width: 13px;
+  margin-left: 10px;
+  margin-top: 4px;
+}
+
+.location{
+    float: left;
+  margin-left: 409px;
+  margin-top: 12px;
+}
+
+.first_heading{
+    float: left;
+}
+.button_header1{
+    background-color: #202124 ;
+  color: #fff ;
+  height: 32px;
+  font-size: 12px;
+  width: 99px;
+  font-family: "National2-Medium";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  padding: 5px 9px;
+  margin-left: 23px;
+  cursor: pointer;
+  border-radius: 10rem;
+  text-align: center;
+  margin-top: 9px;
+  border: 1px solid #494949
+  
+
+}
+.heading_header1{
+    font-size: 13px;
+    margin-left: 10px;
+    margin-top: 16px;
+}
+.second_heading{
+   
+    width: 65%;
+    height: 68px;
+    float: left;
+}
+.button2{
+    
+    width: 35%;
+    height: 68px;
+    float: left;
+}
+.heading_header2{
+    font-family: "National 2 Condensed";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 20px;
+    letter-spacing: .5px;
+    color: #fff;
+    letter-spacing: -1.5px;
+    margin-left: 424px;
+  
+}
+.button_header2{
+    background-color: #e4002b;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 22px;
+    margin-left: -71px;
+    height: 2.75rem;
+    padding: 0 2.5rem;
+    border-radius: 1.4rem;
+    font-size: .9rem;
+    line-height: 2.75rem;
+    font-family: "National 2 Regular";
+    border: none;
+}
+.button_header2:hover{
+    background-color: #b60828;
+}
+.menu_section{
+    
+    width: 100%;
+    height: 730.67px;
+}
+.Food_main_heading{
+    width:1134px ;
+    height: 198px;
+    margin-left: 113px;
+   
+}
+.heading_part{
+    height: 198px;
+    width: 369px;
+   
+    float: left;
+}
+.brows{
+line-height: 215PX;
+font-family: "National 2 Condensed";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 31px;
+  margin-left: 25px;
+  letter-spacing: -1.5px;
+  text-transform: uppercase;
+  color: #202124;
+  
+  margin-bottom: 55px;
+  margin-top: 4px;
+}
+.border{
+    float: left;
+    height: 198px;
+    
+    width: 765px;
+}
+.line2{
+    margin-top: 110px;
+  width: 648px;
+  color: #e3e3e3;
+}
+.row1{
+    height: 243.13px;
+    width:1134px ;
+    margin-left: 113px;
+}
+.row2{
+    height: 243.13px;
+    width:1134px ;
+    margin-left: 113px;
+    margin-top: 80px;
+}
+.food_img1{
+    height: 243.13px;
+    width:283.5px;
+   
+    float: left;
+}
+.food_img2{
+    height: 243.13px;
+    width:283.5px;
+  
+    float: left;
+}
+.food_img3{
+    height: 243.13px;
+    width:283.5px;
+   
+    float: left;
+}
+.food_img4{
+    height: 243.13px;
+    width:283.5px;
+  
+    float: left;
+}
+.food_img5{
+    height: 243.13px;
+    width:283.5px;    
+    float: left;
+}
+.food_img6{
+    height: 243.13px;
+    width:283.5px;    
+    float: left;
+}
+.food_img7{
+    height: 243.13px;
+    width:283.5px;    
+    float: left;
+}
+.food_img8{
+    height: 243.13px;
+    width:283.5px;    
+    float: left;
+}
+.food_img{
+    width:283.5px;
+    height: 182px;
+   
+    margin: 20px;
+}
+.food_img1_1{
+    width: 261.5px;
+    height: 182px;
+    
+    
+}
+.food_img_heading{
+    width: 283.5px;
+    height:61.13px ;
+   
+    margin-left: 20px;
+}
+.food_img_heading_1{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 17px;
+  letter-spacing: -0.9px;
+  color: #212529;
+  text-align: center;
+  font-weight: 800;
+  line-height: 50px;
+  margin-left: -34px;
+}
+.atag{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 15px;
+    
+    color: #212529;
+    text-align: left;
+    font-weight: 800;
+    line-height: 50px; 
+}
+.last_img_section{
+    width: 100%;
+    height: 673px;
+    margin-top: 72px;
+    background-color: aqua;
+    margin-bottom: 8px;
+}
+.offer_heading{
+    height: 150px;
+    width: 100%;
+    background-color: #212529;
+}
+.lat_heading_part{
+    height: 150px;
+    width: 50%;
+    float: left;
+}
+.link_part{
+    height: 150px;
+    width: 50%;
+    float: left;
+}
+.offer_writing{
+    font-family: "National 2 Condensed";
+  margin-left: 221px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  font-size: 38px;
+  line-height: 129px;
+  color: white;
+}
+.last_link{
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 15px;
+    color: white;
+    font-weight: 700;
+    line-height: 195px;
+    margin-left: 399px;
+}
+.offers{
+    width:100%;
+    height: 523px;
+    background-color:#212529;; 
+   
+}
+.last_line{
+    width:100%;
+    height: 100px;
+    
+   
+}
+.first_offer{
+    width: 310px;
+    height: 398px;
+    float: left;
+    margin-left: 185px;
+    border-radius: 10px;
+}
+.second_offer{
+    width: 310px;
+    height: 398px;
+    float: left;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.third_offer{
+    width: 310px;
+    height: 398px;
+    float: left;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+.offercard_img{
+    width: 310px;
+    height: 398px;
+}
+.offercard_content{
+    width: 310px;
+    height: 143px;
+    margin-top: -167px;
+    background-color: white;
+}
+.offer_img{
+    width: 310px;
+    height: 255px;
+    border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+.offercard_img_tittle{
+    width: 310px;
+    height: 44px;
+}
+.offercard_text{
+    width: 310px;
+    height: 108px;
+    border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: white;
+}
+.offercard_tittle_one{
+    margin-left: 49px;
+    height: 43px;
+    font-family: "National 2 Condensed";
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 0px;
+    color: #e4002b;
+    letter-spacing: -1.5px;
+    line-height: 64px;
+}
+.text{
+    height: 48px;
+    font-family: "National 2 Regular";
+    font-weight: 500;
+    font-size: 14px;
+    color: #202124;
+    
+    text-align: center;
+    line-height: 19px;
+  }
+  .offercard_last{
+    width: 310px;
+  height: 72px;
+  background-color:white;
+  margin-top: -38px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  display: inline-table;
+  }
+  .offercard_link{
+    float: left;
+  }
+  .offercard_button{
+    float: left;
+  }
+  .offer_link{
+    font-weight: 600;
+    font-size: 14px;
+    
+    color: #494949;
+    line-height: 65px;
+    margin-left: 28px;
+  }
+  .last_button{
+    font-family: "National2-Medium";
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  border: 1px solid #494949;
+  background-color: transparent;
+  cursor: pointer;
+  padding: .656rem 2.75rem;
+  border-radius: 10rem;
+  text-align: center;
+  margin-top: 14px;
+  margin-left: 44px;
+  }
+  .last_button:hover{
+    background-color: black;
+    color: white;
+    
+}
+footer{
+    width: 100%;
+    height: 450px;
+    background-color: #212529;
+}
+.footer_part1{
+    width: 100%;
+    height: 400px;
+    background-color: #212529;
+    margin-top: -8px;
+}
+.line.pattanilla{
+    color: white;
+    width: 100%;
+    height: 1px;
+}
+.footer_part2{
+  width: 100%;
+  height: 50px;
+  background-color: #212529;
+  margin-top: -12px;
+}
+.footer_logo{
+    height: 400px;
+    background-color: #212529;
+    float: left;
+    width: 15%;
+}
+.footer_table{
+    height: 400px;
+    background-color: #212529;
+    float: left;
+    width: 40%;
+}
+.footer_sticker{
+    height: 400px;
+    background-color: darkslategray;
+    float: left;
+    width: 45%;
+}
+.footer_logo_kfc{
+    width: 56px;
+    margin-top: 170px;
+    margin-left: 126px;
+}
+.table_footer{
+    margin-top: 170px;
+  letter-spacing:.4px;
+  cursor: pointer;
+  margin-left: 38px;
+  line-height: 24px;
+  font-size: 12px;
+  font-weight: 600;
+  color: white;
+}
+.find{
+    height: 400px;
+    background-color: #212529;
+    float: left;
+    width: 35%;
+    float: left;
+}
+.google{
+    height: 400px;
+    background-color: #212529;
+    float: left;
+    width: 30%;
+}
+.apple{
+    height: 400px;
+    background-color: #212529;
+    float: left;
+    width: 35%;
+}
+.find_kfc{
+    margin-top: 177px;
+    width: 13px;
+}
+.find_link{
+    color: #fff;
+    font-size: 13px;
+    font-weight: 400;
+    cursor: pointer;
+    margin-left: 10px
+}
+.google_img{
+    margin-top: 181px;
+}
+.apple_img{
+    margin-top: 181px;
+}
+.footer_copy{
+  
+  font-family: "National 2 Regular";
+  font-size: 12px;
+  text-align: center;
+  line-height: 12px;
+  color: #dbdbdb;
+  margin-left:391px;
+}
+.copy{
+    float: left;
+    width: 50%;
+   
+}
+.social{
+    float: left;
+    width: 50%;
+}
+.insta{
+    float: left;
+    margin-left: 452px;
+
+}
+.fb{
+    float: left;
+    margin-left: 10px;
+}
+.twitter{
+    float: left;
+    margin-left: 10px;
+}
+.line_last{
+    
+    color: #6c757d;
+    margin-top: 0px;
+    width: 1134px;
+    display: inline-table;
+    margin-left: 100px;
+}
+
+   
