@@ -79,6 +79,7 @@ line{
 .main_img{
     width: 100%;
     height: 376px;
+    margin-top: -2px;
     
 }
 .location_img{
